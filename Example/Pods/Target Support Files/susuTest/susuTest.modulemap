@@ -1,0 +1,6 @@
+framework module susuTest {
+  umbrella header "susuTest-umbrella.h"
+
+  export *
+  module * { export * }
+}

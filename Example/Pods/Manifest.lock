@@ -1,0 +1,16 @@
+PODS:
+  - susuTest (0.1.0)
+
+DEPENDENCIES:
+  - susuTest (from `../`)
+
+EXTERNAL SOURCES:
+  susuTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  susuTest: 0bb61873d26a3acf67bec5231dca56b6c416605a
+
+PODFILE CHECKSUM: 0674a9922f554d3fd96c4b54f5d6f94a32310576
+
+COCOAPODS: 1.16.2
